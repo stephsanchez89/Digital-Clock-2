@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\bin\Debug\digitalClockproject.exe.config
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\bin\Debug\digitalClockproject.exe
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\bin\Debug\digitalClockproject.pdb
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.clock.resources
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.Properties.Resources.resources
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.exe
+C:\Users\Julian\source\repos\digitalClockproject\digitalClockproject\obj\Debug\digitalClockproject.pdb
